@@ -16,7 +16,7 @@ namespace LatihanInheritance
             Teacher teacher = new Teacher("Kamarudin",35,"190302","Pemrograman");
             teacher.GetNameAndAge();
             Console.WriteLine();
-            Student student = new Student("Bimo",20, "19.11.2610", "aryo.saputro@students.amikom.ac.id");
+            Student student = new Student("Bimo",20, "19.11.2610", "aryobimo1231@gmail.com");
             student.GetNameAndAge();
 
             Console.ReadKey();
